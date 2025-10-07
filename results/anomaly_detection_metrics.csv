@@ -1,0 +1,8 @@
+Metric,Abbreviation,Value
+Accuracy,Acc,0.9733333333333334
+Precision,Pr,0.9824120603015075
+Recall,Re,0.9775
+F1 Score,F1,0.9799498746867169
+False Positive Rate,FPR,0.035
+False Negative Rate,FNR,0.0225
+AUROC,AUROC,0.99665
