@@ -2,11 +2,11 @@ SA-CVAE
 
 ## Project Introduction
 
-Source codes for the paper "An anomaly detection method for gas turbines in power plants using conditional variational autoencoder optimized with self-attention": [Reliability Engineering & System Safety]
+Source codes for the paper "An anomaly detection method for gas turbines in power plants using conditional variational autoencoder optimized with self-attention": [Reliability Engineering and System Safety 267 (2026) 111894]
 by Dongchao Chen, Xiuxia Li, Jingquan Xu, Zhong Wang.
 
 
-##  Upon acceptance of the paper, we will immediately release the source code  ##
+## The source of code will coming soon ##
 
 
 This project implements a Conditional Variational Autoencoder (CVAE) integrated with a Self-Attention mechanism (SA-CVAE) for industrial equipment/complex system anomaly detection. 
