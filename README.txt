@@ -6,7 +6,7 @@ Source codes for the paper "An anomaly detection method for gas turbines in powe
 by Dongchao Chen, Xiuxia Li, Jingquan Xu, Zhong Wang.
 
 
-## The source of code will coming soon ##
+## The source code will be coming soon ##
 
 
 This project implements a Conditional Variational Autoencoder (CVAE) integrated with a Self-Attention mechanism (SA-CVAE) for industrial equipment/complex system anomaly detection. 
